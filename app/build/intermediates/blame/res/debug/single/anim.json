@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\leon\\AndroidStudioProjects\\GuidePageDemmo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_in_anim.xml",
+        "source": "C:\\Users\\leon\\AndroidStudioProjects\\GuidePageDemmo\\app\\src\\main\\res\\anim\\alpha_in_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\leon\\AndroidStudioProjects\\GuidePageDemmo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_out_anim.xml",
+        "source": "C:\\Users\\leon\\AndroidStudioProjects\\GuidePageDemmo\\app\\src\\main\\res\\anim\\alpha_out_anim.xml"
+    }
+]

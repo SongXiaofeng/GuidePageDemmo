@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\leon\\AndroidStudioProjects\\GuidePageDemmo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\leon\\AndroidStudioProjects\\GuidePageDemmo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\leon\\AndroidStudioProjects\\GuidePageDemmo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guide2.jpg",
+        "source": "C:\\Users\\leon\\AndroidStudioProjects\\GuidePageDemmo\\app\\src\\main\\res\\drawable-hdpi\\guide2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\leon\\AndroidStudioProjects\\GuidePageDemmo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guide1.jpg",
+        "source": "C:\\Users\\leon\\AndroidStudioProjects\\GuidePageDemmo\\app\\src\\main\\res\\drawable-hdpi\\guide1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\leon\\AndroidStudioProjects\\GuidePageDemmo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guide3.jpg",
+        "source": "C:\\Users\\leon\\AndroidStudioProjects\\GuidePageDemmo\\app\\src\\main\\res\\drawable-hdpi\\guide3.jpg"
+    }
+]
